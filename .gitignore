@@ -1,2 +1,12 @@
 .idea/
+__pycache__/
 src/__pycache__/
+debug.log
+SimulationPlots_case1
+SimulationPlots_case2
+SimulationPlots_case3
+SimulationPlots_case4
+result1.txt
+result2.txt
+result3.txt
+result4.txt
